@@ -18,3 +18,4 @@ cp .env.example .env
 # Levantar todo
 docker compose up -d --pull always
 ```
+Release 26-11-2025 – Arreglé login y sesiones
