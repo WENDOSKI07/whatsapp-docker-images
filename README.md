@@ -19,3 +19,4 @@ cp .env.example .env
 docker compose up -d --pull always
 ```
 Release 26-11-2025 – Arreglé login y sesiones
+Release 28-11-2025 – Fix @lid y newsletters + estabilidad total
