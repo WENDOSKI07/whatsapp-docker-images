@@ -7,6 +7,8 @@ Imágenes ya subidas y probadas en:
 ## Levantar en cualquier PC/servidor (1 minuto)
 
 ```bash
+
+
 git clone https://github.com/WENDOSKI07/whatsapp-docker-images.git
 cd whatsapp-docker-images
 
@@ -16,4 +18,6 @@ cp .env.example .env
 
 # Levantar todo
 docker compose up -d --pull always
+
+fix
 ```
